@@ -4,7 +4,7 @@ One hundred days of CSS challenge
 
 # 写在前面
 
-觉得自己 css 知识薄弱，希望每一天都可以写一个小 demo，循序渐进，厚积薄发。
+觉得自己 css 知识薄弱，希望每一天都可以跟着张鑫旭写一个小 demo，循序渐进，厚积薄发。
 
 ### 使用方法
 
@@ -13,3 +13,4 @@ One hundred days of CSS challenge
 # 目录
 
 1.  css+jq -- 点击查看大图
+2.  2.jQuery 之 replace 字符串替换实现大小图片切换
