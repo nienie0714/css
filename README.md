@@ -13,4 +13,5 @@ One hundred days of CSS challenge
 # 目录
 
 1.  css+jq -- 点击查看大图
-2.  2.jQuery 之 replace 字符串替换实现大小图片切换
+2.  jQuery 之 replace 字符串替换实现大小图片切换
+3.  按钮专栏
